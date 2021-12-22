@@ -1,3 +1,4 @@
 test git quich start demo
 function
 other function
+new fun
